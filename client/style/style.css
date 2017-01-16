@@ -1,0 +1,21 @@
+.employee-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.thumbnail {
+  width: 300px;
+}
+
+.btn {
+  margin: 20px;
+}
+
+.button {
+  text-align: center;
+}
+
+.header {
+  margin: 30px;
+}
